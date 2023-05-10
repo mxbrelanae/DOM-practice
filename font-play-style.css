@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color:black;
+    color: white;
+}
+h1{
+    font-size: 54px;
+    margin-bottom: 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5em;
+}
+
+form{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3em;
+}
+
+#results{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+
